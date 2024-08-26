@@ -1,0 +1,6 @@
+jupyter notebook --notebook-dir="C:\Users\DELL\Desktop\xy"
+
+
+
+GITHUB:
+https://github.com/SaibaSaifi/Student-Dropout-and-Academic-Success/blob/main/notebook%20(3).ipynb
